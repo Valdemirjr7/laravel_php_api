@@ -13,6 +13,9 @@ A simple **API** created in **Php with Laravel** Framework, only have work a **C
 **CREATE, READ, UPDATE and DELETE**, that API do a CRUD of products, you can using this is in a
 **e-Commerce** how a exemple.
 
+
+[![](http://img.youtube.com/vi/77UPC-UPaus/0.jpg)](http://www.youtube.com/watch?v=77UPC-UPaus "How work the API")
+
 ## ⚒ How download a project and Run
 
 You can download this project with command.
