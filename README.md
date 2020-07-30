@@ -5,7 +5,7 @@
 - [About](#-about)
 - [How download a project and Run](#-how-download-a-project-and-run)
 - [Run API](#-run-api)
-- [Credits](#-credit)
+- [Credits](#-credits)
 
 ## 📖 About
 
